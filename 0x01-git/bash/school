@@ -1,5 +1,2 @@
--e#!/bin/bash\necho "school" 
--e#!/bin/bash\necho "school" 
--e#!/bin/bash\necho "school"
 #!/bin/bash
-echo "school" 
+echo "School" 
